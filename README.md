@@ -4,7 +4,7 @@ An intelligent web application to predict used car prices using Machine Learning
 
 ## 🎯 Live Demo
 The app is deployed and ready to use!
-*(Add your Streamlit link here if available)*
+*(Add your Streamlit link here)*
 
 ## 🛠️ Tech Stack
 - **Frontend:** Streamlit
@@ -21,3 +21,7 @@ The app is deployed and ready to use!
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/lenaalzetawe16-pixel/Car-Price-App.git](https://github.com/lenaalzetawe16-pixel/Car-Price-App.git)
+pip install -r requirements.txt
+streamlit run app.py   
+   
+   
