@@ -1,15 +1,15 @@
-# 🚗 Car Price Prediction App
+# 🚗 Car Price Predictor App
 
-A user-friendly web application built with **Streamlit** that allows users to estimate the market value of used cars based on their specifications.
+An intelligent web application to predict used car prices using Machine Learning.
 
-## 🌟 Live Demo
+## 🎯 Live Demo
 The app is deployed and ready to use!
-[Put your Streamlit Cloud Link Here later]
+[Put your Streamlit Cloud Link Here]
 
 ## 🛠️ Tech Stack
 - **Frontend:** Streamlit
 - **Backend:** Python, Scikit-Learn
-- **Model:** Random Forest Regressor (92% Accuracy)
+- **Model:** Random Forest (92% Accuracy)
 
 ## ✨ Features
 - **Dynamic Currency:** Convert prices to USD, JOD, SAR, etc.
@@ -17,9 +17,7 @@ The app is deployed and ready to use!
 - **Real-time Prediction:** Instant price calculation using the pre-trained model.
 
 ## 🚀 How to Run Locally
-1. Clone the repository.
-2. Install dependencies:
+
+1. **Clone the repository:**
    ```bash
-   pip install -r requirements.txt
-   streamlit run app.py
-   Developed by [لينا محمد هاني علي] - Mechatronics Engineer
+   git clone [https://github.com/YOUR-USERNAME/Car-Price-App.git](https://github.com/YOUR-USERNAME/Car-Price-App.git)
