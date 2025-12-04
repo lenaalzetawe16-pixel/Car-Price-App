@@ -21,3 +21,7 @@ The app is deployed and ready to use!
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/lenaalzetawe16-pixel/Car-Price-App.git](https://github.com/lenaalzetawe16-pixel/Car-Price-App.git)
+
+   ---
+### 👤 Developed by
+**Eng. Lena Mohamed Hani Ali** | Mechatronics Engineer 🎓
