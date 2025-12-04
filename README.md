@@ -21,3 +21,5 @@ The app is deployed and ready to use!
 2. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   streamlit run app.py
+   Developed by [لينا محمد هاني علي] - Mechatronics Engineer
