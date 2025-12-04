@@ -21,4 +21,3 @@ The app is deployed and ready to use!
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/YOUR-USERNAME/Car-Price-App.git](https://github.com/YOUR-USERNAME/Car-Price-App.git)
-y
